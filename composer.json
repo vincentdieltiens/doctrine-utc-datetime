@@ -3,7 +3,6 @@
   , "type": "library"
   , "description": "Doctrine 2 DateTime Extension to save Dates in UTC format"
   , "keywords": ["UTC", "Doctrine", "DateTime"]
-  //, "homepage": ""
   , "repository": "https://github.com/vincentdieltiens/doctrine-utc-datetime"
   , "license": "MIT"
   , "authors": [
